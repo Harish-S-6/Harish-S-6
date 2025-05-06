@@ -8,7 +8,7 @@ Software Engineer @ Zoho Corporation
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/harish0604) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+<br/>[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/harish0604) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
 
 
 ### I code in
